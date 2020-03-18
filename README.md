@@ -6,14 +6,14 @@ group 10 on 62410 CDIO-PROJEKT course
 ------------------------------------------------------
 **Particapents:**
 
-* Item 1 Alexander Ege
-* Item 2 Anders Dahlerup Johansson
-* Item 3 Andreas Silla
-* Item 4 Jamie Grønbæk Callan
-* Item 5 Jan Münster Jensen
-* Item 6 Mads Lund Nerengård
-* Item 7 Mikkel Amtrup Krohn
-* Item 8 Phillip Eg Bomholtz
+* 1 Alexander Ege
+* 2 Anders Dahlerup Johansson
+* 3 Andreas Silla
+* 4 Jamie Grønbæk Callan
+* 5 Jan Münster Jensen
+* 6 Mads Lund Nerengård
+* 7 Mikkel Amtrup Krohn
+* 8 Phillip Eg Bomholtz
 -------------------------------------------------------
 **Description:**
 
